@@ -1,7 +1,7 @@
 {
     "meta": {
-        "entityName": "Institución Ejemplo",
-        "entityUrl": "www.ejemplo.gov.co",
+        "entityName": "Colciencias",
+        "entityUrl": "www.colciencias.gov.co",
         "lastEvaluationDate": "2019-07-17T14:00:01+00:00",
         "lastEvaluationEpoch": "1563372001",
         "protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
@@ -48,7 +48,7 @@
         "title": "Universalidad: Performance",
         "shortDescription": "Los sitios deben permitir acesso con velocidade rasonable y estable mismo em malas condiciones de aceso, como conexión por dispositivos móbiles en reds de baja performance.",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "20",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#524---universalidad-performance"
     }, {
