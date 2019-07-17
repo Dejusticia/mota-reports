@@ -56,7 +56,7 @@
         "title": "Seguridad: Conexión Encriptada",
         "shortDescription": "El sítio és acessible en conexión encriptada (SSL/TLS).",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "100",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#525---seguridad-conexi%C3%B3n-encriptada"
     }, {
@@ -120,7 +120,7 @@
         "title": "Ejecución Histórica Anual",
         "shortDescription": "Información relativa al presupuesto ejecutado en el año en curso, idealmente con porcentajes de ejecución, y deben ofrecer datos de forma clara, organizada y encontrarse desagregados.",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#66-ejecuci%C3%B3n-hist%C3%B3rica-anual"
     }, {
@@ -144,7 +144,7 @@
         "title": "Directorio de funcionarios - Completo",
         "shortDescription": "El sitio web contiene un directorio de funcionarios con informaciones completas: Nombres y apellidos; correo electrónico; Teléfono del despacho y dependencia; Formación académica; Experiencia laboral y profesional; Sanciones aplicadas.",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#69-directorio-de-funcionarios---completo"
     }, {
@@ -160,7 +160,7 @@
         "title": "Sanciones aplicadas a servidores públicos",
         "shortDescription": "Es posible encontrar informaciones sobre sanciones disciplinarias o de otro tipo que hayan sido impuestas  a funcionarios de la entidad.",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#611-sanciones-aplicadas-a-servidores-p%C3%BAblicos"
     }, {
@@ -168,7 +168,7 @@
         "title": "Directorio con Informaciones de Contratos de Contratistas - Básico",
         "shortDescription": "Es posible encontrar informaciones sobre los contratos de contratistas en formatos abiertos: Nombres y apellidos; correo electrónico; Teléfono del despacho y dependencia; Objeto del contrato.",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#612-directorio-con-informaciones-de-contratos-de-contratistas---b%C3%A1sico"
     }, {
@@ -216,7 +216,7 @@
         "title": "Resultado de Auditorías",
         "shortDescription": "AFAZER",
         "grade": "A",
-        "gradePoints": "20",
+        "gradePoints": "0",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#617-resultado-de-auditor%C3%ADas"
     }, {
@@ -232,7 +232,7 @@
         "title": "Plan Anticorrupción y de Atención al Ciudadano",
         "shortDescription": "AFAZER",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#619-plan-anticorrupci%C3%B3n-y-de-atenci%C3%B3n-al-ciudadano"
     }, {
@@ -248,7 +248,7 @@
         "title": "Atención al ciudadano",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con información de los servicios que brinda directamente al público, incluyendo i) normas ii) formularios y formatos y, iii) protocolos de atención a diferentes públicos.",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#71-atenci%C3%B3n-al-ciudadano"
     }, {
@@ -256,7 +256,7 @@
         "title": "Trámites",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con informaciones de los trámites que se pueden agotar en la entidad, incluyendo i) normativa(s) relacionada(s) ii) proceso a seguir, incluso formularios y formatos y, iii) costos asociados.",
         "grade": "A",
-        "gradePoints": "20",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#72-tr%C3%A1mites"
     }, {
@@ -280,7 +280,7 @@
         "title": "Políticas",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con los contenidos de las políticas adoptadas que afecten al público, junto con sus fundamentos e interpretaciones.",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#75-pol%C3%ADticas"
     }, {
@@ -288,7 +288,7 @@
         "title": "Participación Ciudadana - Mecanismos de Presentación Directa",
         "shortDescription": "El sitio de la entidad debe ofrecer mecanismos de presentación directa de solicitudes, quejas y reclamos a disposición del público.",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#74-participaci%C3%B3n-ciudadana---mecanismos-de-presentaci%C3%B3n-directa"
     }, {
@@ -296,7 +296,7 @@
         "title": "Reporte de Participación Ciudadana",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con reportes generales y agregados de datos de quejas y reclamos de la entidad, correspondientes a la respectiva vigencia y a años anteriores.",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#75-reporte-de-participaci%C3%B3n-ciudadana"
     }, {
@@ -344,7 +344,7 @@
         "title": "Mecanismos Externos de Supervisión",
         "shortDescription": "AFAZER",
         "grade": "A",
-        "gradePoints": "20",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#711-mecanismos-externos-de-supervisi%C3%B3n"
     }, {
@@ -352,7 +352,7 @@
         "title": "Mecanismos Notificación",
         "shortDescription": "Descripción de la forma en que se compone y se organiza la entidade y no tan sólo la cabeza o principal órgano que se trate.",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#712-mecanismos-notificaci%C3%B3n"
     }, {
@@ -360,7 +360,7 @@
         "title": "Mecanismos de Vigilancia",
         "shortDescription": "AFAZER",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#713-mecanismos-de-vigilancia"
     }, {
@@ -368,7 +368,7 @@
         "title": "Procedimientos y Lineamientos de Contratación",
         "shortDescription": "AFAZER",
         "grade": "A",
-        "gradePoints": "20",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#714-procedimientos-y-lineamientos-de-contrataci%C3%B3n"
     }, {
@@ -384,7 +384,7 @@
         "title": "Esquemas de Publicación de información",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con informaciones de Esquemas de Publicación de información, publicadas en una página denominada \"Acceso a información pública\".",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#81-esquemas-de-publicaci%C3%B3n-de-informaci%C3%B3n"
     }, {
@@ -420,4 +420,4 @@
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#85-respuestas-a-solicitudes-de-informaci%C3%B3n-recibidas"
     }]
-}
+    }
