@@ -325,7 +325,7 @@
         "title": "Informes de Evaluación",
         "shortDescription": "El sitio de la entidad debe contener Informes de Evaluación del periodo vigente y de los períodos anteriores. contratación, entre otros.",
         "grade": "A",
-        "gradePoints": ""0",
+        "gradePoints": "0",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#78-informes-de-evaluaci%C3%B3n"
     }, {
