@@ -5,7 +5,7 @@
         "lastEvaluationDate": "2019-07-17T14:01:01+00:00",
         "lastEvaluationEpoch": "1563372061",
         "protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
-        "protocolSpeficicationVersion": "0.2.0",
+        "protocolSpeficicationVersion": "0.2.2",
         "sitemap": "not found",
         "transparencyConfig": "not found",
         "generalGrade": "275",
@@ -40,7 +40,7 @@
         "title": "Universalidad: Patrones de Acesibilidad y Web Standards",
         "shortDescription": "Los sitios deben permitir acesso tecnologias asistivas como lectores de tela, asistentes por voz, etc;aceso sin uso de javascript, dispositivos variados y en condiciones variadas de conexiones.",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "20",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#523---universalidad-patrones-de-acesibilidad-y-web-standards"
     }, {
