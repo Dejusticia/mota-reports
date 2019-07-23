@@ -8,8 +8,8 @@
         "protocolSpeficicationVersion": "0.2.2",
         "sitemap": "not found",
         "transparencyConfig": "not found",
-        "generalGrade": "275",
-        "generalGradeNormalized": "40",
+        "generalGrade": "1340",
+        "generalGradeNormalized": "26",
         "validDomains": [
             "id.presidencia.gov.co",
             "dapre.presidencia.gov.co",
@@ -325,15 +325,15 @@
         "title": "Informes de Evaluación",
         "shortDescription": "El sitio de la entidad debe contener Informes de Evaluación del periodo vigente y de los períodos anteriores. contratación, entre otros.",
         "grade": "A",
-        "gradePoints": "0",
+        "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#78-informes-de-evaluaci%C3%B3n"
     }, {
         "ruleId": "informesDeAuditoria",
         "title": "Informes de Auditoría",
         "shortDescription": "AFAZER",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#79-informes-de-auditor%C3%ADa"
     }, {
@@ -349,22 +349,22 @@
         "title": "Mecanismos Externos de Supervisión",
         "shortDescription": "AFAZER",
         "grade": "A",
-        "gradePoints": "50",
+        "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#711-mecanismos-externos-de-supervisi%C3%B3n"
     }, {
         "ruleId": "mecanismosNotificacion",
         "title": "Mecanismos Notificación",
         "shortDescription": "Descripción de la forma en que se compone y se organiza la entidade y no tan sólo la cabeza o principal órgano que se trate.",
-        "grade": "",
-        "gradePoints": "50",
+        "grade": "A",
+        "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#712-mecanismos-notificaci%C3%B3n"
     }, {
         "ruleId": "mecanismosDeVigilancia",
         "title": "Mecanismos de Vigilancia",
         "shortDescription": "AFAZER",
-        "grade": "",
+        "grade": "A",
         "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#713-mecanismos-de-vigilancia"
@@ -373,7 +373,7 @@
         "title": "Procedimientos y Lineamientos de Contratación",
         "shortDescription": "AFAZER",
         "grade": "A",
-        "gradePoints": "50",
+        "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#714-procedimientos-y-lineamientos-de-contrataci%C3%B3n"
     }, {
@@ -388,7 +388,7 @@
         "ruleId": "esquemasDePublicacionDeInformacion",
         "title": "Esquemas de Publicación de información",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con informaciones de Esquemas de Publicación de información, publicadas en una página denominada \"Acceso a información pública\".",
-        "grade": "",
+        "grade": "A",
         "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#81-esquemas-de-publicaci%C3%B3n-de-informaci%C3%B3n"
@@ -396,8 +396,8 @@
         "ruleId": "programaDeGestionDocumental",
         "title": "Programa de Gestión Documental",
         "shortDescription": "Informaciones de Programa de Gestión Documental, publicadas en una página Gestión Documental e informar procedimientos y lineamientos para la producción, distribución, organización, consulta y conservación de los documentos públicos.",
-        "grade": "",
-        "gradePoints": "20",
+        "grade": "AA",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#82-programa-de-gesti%C3%B3n-documental"
     }, {
@@ -420,7 +420,7 @@
         "ruleId": "respuestasASolicitudesDeInformacionRecibidas",
         "title": "Respuestas A Solicitudes De Información Recibidas",
         "shortDescription": "AFAZER",
-        "grade": "",
+        "grade": "A",
         "gradePoints": "20",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#85-respuestas-a-solicitudes-de-informaci%C3%B3n-recibidas"
