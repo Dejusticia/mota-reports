@@ -1,14 +1,14 @@
 {
     "meta": {
-        "entityName": "Ministerio de Cultura",
-        "entityUrl": "www.mincultura.gov.co",
-        "lastEvaluationDate": "2019-07-17T14:00:01+00:00",
-        "lastEvaluationEpoch": "1563372001",
+        "entityName": "Páginas Agencia Jurídica",
+        "entityUrl": "www.defensajuridica.gov.co",
+        "lastEvaluationDate": "2019-07-28T16:00:01+00:00",
+        "lastEvaluationEpoch": "1580223600",
         "protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
-        "protocolSpeficicationVersion": "0.2.2",
+        "protocolSpeficicationVersion": "0.3.1",
         "sitemap": "not found",
         "transparencyConfig": "not found",
-        "generalGrade": "275",
+        "generalGrade": "2600",
         "generalGradeNormalized": "40"
     },
     "rules": [{
@@ -48,7 +48,7 @@
         "title": "Universalidad: Performance",
         "shortDescription": "Los sitios deben permitir acesso con velocidade rasonable y estable mismo em malas condiciones de aceso, como conexión por dispositivos móbiles en reds de baja performance.",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "30",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#524---universalidad-performance"
     }, {
@@ -56,7 +56,7 @@
         "title": "Seguridad: Conexión Encriptada",
         "shortDescription": "El sítio és acessible en conexión encriptada (SSL/TLS).",
         "grade": "",
-        "gradePoints": "0",
+        "gradePoints": "100",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#525---seguridad-conexi%C3%B3n-encriptada"
     }, {

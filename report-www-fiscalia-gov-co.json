@@ -141,7 +141,7 @@
         {
             "ruleId": "planesDeGastoPublicoPorAnoFiscal",
             "title": "Planes de gasto público por año fiscal",
-            "shortDescription": "Afazer",
+            "shortDescription": "PARA HACER",
             "grade": "A",
             "gradePoints": "30",
             "type": "obligation",
@@ -222,7 +222,7 @@
         {
             "ruleId": "manuales",
             "title": "Manuales",
-            "shortDescription": "AFAZER",
+            "shortDescription": "PARA HACER",
             "grade": "A",
             "gradePoints": "30",
             "type": "obligation",
@@ -231,7 +231,7 @@
         {
             "ruleId": "metasYObjectivos",
             "title": "Metas y Objetivos",
-            "shortDescription": "AFAZER",
+            "shortDescription": "PARA HACER",
             "grade": "A",
             "gradePoints": "30",
             "type": "obligation",
@@ -240,7 +240,7 @@
         {
             "ruleId": "resultadoDeAuditorias",
             "title": "Resultado de Auditorías",
-            "shortDescription": "AFAZER",
+            "shortDescription": "PARA HACER",
             "grade": "A",
             "gradePoints": "30",
             "type": "obligation",
@@ -258,7 +258,7 @@
         {
             "ruleId": "planAnticorrupcionYDeAtencionAlCiudadano",
             "title": "Plan Anticorrupción y de Atención al Ciudadano",
-            "shortDescription": "AFAZER",
+            "shortDescription": "PARA HACER",
             "grade": "A",
             "gradePoints": "30",
             "type": "obligation",
@@ -366,7 +366,7 @@
         {
             "ruleId": "informesDeAuditoria",
             "title": "Informes de Auditoría",
-            "shortDescription": "AFAZER",
+            "shortDescription": "PARA HACER",
             "grade": "",
             "gradePoints": "0",
             "type": "obligation",
@@ -384,7 +384,7 @@
         {
             "ruleId": "mecanismosExternosDeSupervision",
             "title": "Mecanismos Externos de Supervisión",
-            "shortDescription": "AFAZER",
+            "shortDescription": "PARA HACER",
             "grade": "A",
             "gradePoints": "30",
             "type": "obligation",
@@ -402,7 +402,7 @@
         {
             "ruleId": "mecanismosDeVigilancia",
             "title": "Mecanismos de Vigilancia",
-            "shortDescription": "AFAZER",
+            "shortDescription": "PARA HACER",
             "grade": "",
             "gradePoints": "0",
             "type": "obligation",
@@ -411,7 +411,7 @@
         {
             "ruleId": "procedimientosYLineamientosDeContratacion",
             "title": "Procedimientos y Lineamientos de Contratación",
-            "shortDescription": "AFAZER",
+            "shortDescription": "PARA HACER",
             "grade": "A",
             "gradePoints": "30",
             "type": "obligation",
@@ -420,7 +420,7 @@
         {
             "ruleId": "politicasEnMateriaDeAdquisicionesYCompras",
             "title": "Políticas en materia de adquisiciones y compras",
-            "shortDescription": "AFAZER: aclarar. La entidad debe ofrecer informaciones de su Plan de adquisiciones. El documento MOTA - Reglas Contextuales especifica normas necesarias por entidad, o clases de entidad.",
+            "shortDescription": "PARA HACER: aclarar. La entidad debe ofrecer informaciones de su Plan de adquisiciones. El documento MOTA - Reglas Contextuales especifica normas necesarias por entidad, o clases de entidad.",
             "grade": "A",
             "gradePoints": "30",
             "type": "obligation",
@@ -447,7 +447,7 @@
         {
             "ruleId": "tablasDeRetencionDocumental",
             "title": "Tablas De Retención Documental",
-            "shortDescription": "AFAZER",
+            "shortDescription": "PARA HACER",
             "grade": "A",
             "gradePoints": "30",
             "type": "obligation",
@@ -456,7 +456,7 @@
         {
             "ruleId": "informacionPublicadaAntesDeLaLey1712De2014",
             "title": "Información Publicada Antes De La Ley 1712 De 2014",
-            "shortDescription": "AFAZER",
+            "shortDescription": "PARA HACER",
             "grade": "",
             "gradePoints": "0",
             "type": "obligation",
@@ -465,7 +465,7 @@
         {
             "ruleId": "respuestasASolicitudesDeInformacionRecibidas",
             "title": "Respuestas A Solicitudes De Información Recibidas",
-            "shortDescription": "AFAZER",
+            "shortDescription": "PARA HACER",
             "grade": "",
             "gradePoints": "0",
             "type": "obligation",
