@@ -1,7 +1,7 @@
 {
     "meta": {
         "entityName": "Institución Ejemplo",
-        "entityUrl": "www.ejemplo.gov.co",
+        "entityUrl": "www.adres.gov.co",
         "lastEvaluationDate": "2020-01-28T14:00:01+00:00",
         "lastEvaluationEpoch": "1580216400",
         "evaluationStatus": "done","protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",

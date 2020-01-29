@@ -1,7 +1,7 @@
 {
     "meta": {
-        "entityName": "Institución Ejemplo",
-        "entityUrl": "www.ejemplo.gov.co",
+        "entityName": "Enbajada de Colombia en Alemania",
+        "entityUrl": "http://alemania.embajada.gov.co/",
         "lastEvaluationDate": "2020-01-28T14:00:01+00:00",
         "lastEvaluationEpoch": "1580216400",
         "evaluationStatus": "done","protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
@@ -56,7 +56,7 @@
         "title": "Seguridad: Conexión Encriptada",
         "shortDescription": "El sítio és acessible en conexión encriptada (SSL/TLS).",
         "grade": "",
-        "gradePoints": "100",
+        "gradePoints": "0",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#525---seguridad-conexi%C3%B3n-encriptada"
     }, {
