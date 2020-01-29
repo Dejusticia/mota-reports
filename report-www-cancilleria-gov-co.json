@@ -72,7 +72,7 @@
         "title": "Estructura orgánica",
         "shortDescription": "Descripción de la forma en que se compone y se organiza la entidade y no tan sólo la cabeza o principal órgano que se trate.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#61-estructura-org%C3%A1nica"
     }, {
@@ -80,7 +80,7 @@
         "title": "Funciones y deberes",
         "shortDescription": "Descripción de funciones y deberes de la entidad en general y no tan sólo la cabeza o principal órgano que lo compone.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#62-funciones-y-deberes"
     }, {
@@ -88,7 +88,7 @@
         "title": "Ubicación de sus sedes y áreas",
         "shortDescription": "Descripción de ubicación de sedes y áreas de la entidad en general y no tan sólo la cabeza o principal órgano que lo compone.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#63-ubicaci%C3%B3n-de-sus-sedes-y-%C3%A1reas"
     }, {
@@ -112,7 +112,7 @@
         "title": "Presupuesto",
         "shortDescription": "El presupuesto de la entidad para la respectiva vigencia debe estar disponible para verificación del público. Puede ser el presupuesto inicial o final. Eo presupuesto debe ofrecer datos (valores, ingresos, gastos) de forma clara, organizada y desagregado.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#66-presupuesto"
     }, {
@@ -128,7 +128,7 @@
         "title": "Planes de gasto público por año fiscal",
         "shortDescription": "PARA HACER",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#67-planes-de-gasto-p%C3%BAblico-por-a%C3%B1o-fiscal"
     }, {
@@ -136,7 +136,7 @@
         "title": "Directorio de funcionarios - Básico",
         "shortDescription": "El sitio web contiene un directorio de funcionarios con sus informaciones básicas: Nombres y apellidos; correo electrónico; Teléfono del despacho y dependencia.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#68-directorio-de-funcionarios---b%C3%A1sico"
     }, {
@@ -152,7 +152,7 @@
         "title": "Escalas salariales",
         "shortDescription": "Es posible encontrar una tabla con los rangos de salarios de la entidad, identificado por el título \"Rangos de salario por nivel\", y el decreto de asignaciones salariales de la entidad en un lugar visible.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#610-escalas-salariales"
     }, {
@@ -184,7 +184,7 @@
         "title": "Normas generales",
         "shortDescription": "Existencia de una sección con normas y reglamentos pertinentes para la entidad: decretos, circulares, leyes, etc. relativas a creacción e reglamentos de la entidad.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#614-normas-generales"
     }, {
@@ -192,7 +192,7 @@
         "title": "Normas Reglamentarias",
         "shortDescription": "Existencia de información sobrenormas reglamentarias pertinentes a la entidad: resoluciones y directivas.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#614-normas-reglamentarias"
     }, {
@@ -200,7 +200,7 @@
         "title": "Manuales",
         "shortDescription": "PARA HACER",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#615-manuales"
     }, {
@@ -216,7 +216,7 @@
         "title": "Resultado de Auditorías",
         "shortDescription": "PARA HACER",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#617-resultado-de-auditor%C3%ADas"
     }, {
@@ -240,7 +240,7 @@
         "title": "Plan anual de compras y adquisiciones",
         "shortDescription": "La entidad debe ofrecer informaciones de su Plan de Compras Anual. El documento MOTA - Reglas Contextuales especifica normas necesarias por entidad, o clases de entidad.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#620-plan-de-compras-y-adquisici%C3%B3n"
     }, {
@@ -256,7 +256,7 @@
         "title": "Trámites",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con informaciones de los trámites que se pueden agotar en la entidad, incluyendo i) normativa(s) relacionada(s) ii) proceso a seguir, incluso formularios y formatos y, iii) costos asociados.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#72-tr%C3%A1mites"
     }, {
@@ -264,7 +264,7 @@
         "title": "Procedimientos",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con informaciones sobre los procedimientos que se siguen para tomar decisiones en diferentes áreas y procesos.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#73-procedimientos"
     }, {
@@ -272,7 +272,7 @@
         "title": "Decisiones",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con los contenidos de las decisiones adoptadas que afecten al público, junto con sus fundamentos e interpretaciones.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#74-decisiones"
     }, {
@@ -312,7 +312,7 @@
         "title": "Informes de Gestión",
         "shortDescription": "Informes de Gestión del periodo vigente y de períodos anteriores. Los informes resumen los resultados de la entidad por un período determinado, así como la administración hecha a sus recursos, contratación, entre otros.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#77-informes-de-gesti%C3%B3n"
     }, {
@@ -336,7 +336,7 @@
         "title": "Mecanismos Internos de Supervisión - Oficina de Control Interno",
         "shortDescription": "Informaciones acerca de la Oficina de Control Interno, de manera que los funcionarios o la ciudadanía tengan claro que hay una dependencia a la que se puede acudir para presentar denuncias u observaciones acerca del funcionamiento de la entidad.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#710-mecanismos-internos-de-supervisi%C3%B3n---oficina-de-control-interno"
     }, {
@@ -344,7 +344,7 @@
         "title": "Mecanismos Externos de Supervisión",
         "shortDescription": "PARA HACER",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#711-mecanismos-externos-de-supervisi%C3%B3n"
     }, {
@@ -368,7 +368,7 @@
         "title": "Procedimientos y Lineamientos de Contratación",
         "shortDescription": "PARA HACER",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#714-procedimientos-y-lineamientos-de-contrataci%C3%B3n"
     }, {
@@ -376,7 +376,7 @@
         "title": "Políticas en materia de adquisiciones y compras",
         "shortDescription": "PARA HACER: aclarar. La entidad debe ofrecer informaciones de su Plan de adquisiciones. El documento MOTA - Reglas Contextuales especifica normas necesarias por entidad, o clases de entidad.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#715-pol%C3%ADticas-en-materia-de-adquisiciones-y-compras"
     }, {
@@ -400,7 +400,7 @@
         "title": "Tablas De Retención Documental",
         "shortDescription": "PARA HACER",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#83-tablas-de-retenci%C3%B3n-documental"
     }, {

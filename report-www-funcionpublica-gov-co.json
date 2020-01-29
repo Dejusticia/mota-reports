@@ -224,7 +224,7 @@
         "title": "Indicadores de Desempeño",
         "shortDescription": "Las entidades deben proveer información sobre los indicadores de desempeño que utilizan y reportes con estadísticas y análisis del desempeño de la entidad (en relación a _________) y de sus funcionarios.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#618-indicadores-de-desempe%C3%B1o"
     }, {
@@ -232,7 +232,7 @@
         "title": "Plan Anticorrupción y de Atención al Ciudadano",
         "shortDescription": "PARA HACER",
         "grade": "",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#619-plan-anticorrupci%C3%B3n-y-de-atenci%C3%B3n-al-ciudadano"
     }, {
@@ -240,7 +240,7 @@
         "title": "Plan anual de compras y adquisiciones",
         "shortDescription": "La entidad debe ofrecer informaciones de su Plan de Compras Anual. El documento MOTA - Reglas Contextuales especifica normas necesarias por entidad, o clases de entidad.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#620-plan-de-compras-y-adquisici%C3%B3n"
     }, {
@@ -272,7 +272,7 @@
         "title": "Decisiones",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con los contenidos de las decisiones adoptadas que afecten al público, junto con sus fundamentos e interpretaciones.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#74-decisiones"
     }, {
@@ -280,7 +280,7 @@
         "title": "Políticas",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con los contenidos de las políticas adoptadas que afecten al público, junto con sus fundamentos e interpretaciones.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#75-pol%C3%ADticas"
     }, {
@@ -296,7 +296,7 @@
         "title": "Reporte de Participación Ciudadana",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con reportes generales y agregados de datos de quejas y reclamos de la entidad, correspondientes a la respectiva vigencia y a años anteriores.",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#75-reporte-de-participaci%C3%B3n-ciudadana"
     }, {
@@ -360,7 +360,7 @@
         "title": "Mecanismos de Vigilancia",
         "shortDescription": "PARA HACER",
         "grade": "A",
-        "gradePoints": "30",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#713-mecanismos-de-vigilancia"
     }, {
