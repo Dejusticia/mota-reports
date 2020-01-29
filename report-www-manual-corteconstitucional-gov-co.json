@@ -9,7 +9,7 @@
         "sitemap": "http://www.corteconstitucional.gov.co/sitemap.xml",
         "transparencyConfig": "http://www.corteconstitucional.gov.co/transparency.xml",
         "generalGrade": "275",
-        "generalGradeNormalized": "40"
+        "generalGradeNormalized": "60"
     },
     "rules": [{
         "rules": {

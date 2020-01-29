@@ -9,7 +9,7 @@
         "sitemap": "not found",
         "transparencyConfig": "not found",
         "generalGrade": "275",
-        "generalGradeNormalized": "40"
+        "generalGradeNormalized": "60"
     },
     "rules": [{
         "ruleId": "websiteExistence",
