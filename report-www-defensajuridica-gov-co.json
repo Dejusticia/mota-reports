@@ -4,6 +4,7 @@
         "entityUrl": "www.defensajuridica.gov.co",
         "lastEvaluationDate": "2019-07-27T13:00:01+00:00",
         "lastEvaluationEpoch": "1580223600",
+        "evaluationStatus": "updating",
         "protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
         "protocolSpeficicationVersion": "0.3.1",
         "sitemap": "not found",
@@ -119,8 +120,8 @@
         "ruleId": "ejecucionHistoricaAnual",
         "title": "Ejecución Histórica Anual",
         "shortDescription": "Información relativa al presupuesto ejecutado en el año en curso, idealmente con porcentajes de ejecución, y deben ofrecer datos de forma clara, organizada y encontrarse desagregados.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#66-ejecuci%C3%B3n-hist%C3%B3rica-anual"
     }, {
@@ -151,8 +152,8 @@
         "ruleId": "escalasSalariales",
         "title": "Escalas salariales",
         "shortDescription": "Es posible encontrar una tabla con los rangos de salarios de la entidad, identificado por el título \"Rangos de salario por nivel\", y el decreto de asignaciones salariales de la entidad en un lugar visible.",
-        "grade": "A",
-        "gradePoints": "50",
+        "grade": "",
+        "gradePoints": "0",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#610-escalas-salariales"
     }, {
