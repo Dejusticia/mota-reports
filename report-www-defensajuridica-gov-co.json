@@ -2,10 +2,9 @@
     "meta": {
         "entityName": "Páginas Agencia Jurídica",
         "entityUrl": "www.defensajuridica.gov.co",
-        "lastEvaluationDate": "2019-07-27T13:00:01+00:00",
+        "lastEvaluationDate": "2020-01-27T13:03:01+00:00",
         "lastEvaluationEpoch": "1580223600",
-        "evaluationStatus": "updating",
-        "protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
+        "evaluationStatus": "updating","protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
         "protocolSpeficicationVersion": "0.3.1",
         "sitemap": "not found",
         "transparencyConfig": "not found",
@@ -168,8 +167,8 @@
         "ruleId": "directorioConInformacionesDeContratosConContratistasBasico",
         "title": "Directorio con Informaciones de Contratos de Contratistas - Básico",
         "shortDescription": "Es posible encontrar informaciones sobre los contratos de contratistas en formatos abiertos: Nombres y apellidos; correo electrónico; Teléfono del despacho y dependencia; Objeto del contrato.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#612-directorio-con-informaciones-de-contratos-de-contratistas---b%C3%A1sico"
     }, {
