@@ -2,7 +2,7 @@
     "meta": {
         "entityName": "ICETEXT",
         "entityUrl": "portal.icetex.gov.co",
-        "lastEvaluationDate": "2020-01-28T14:00:01+00:00",
+        "lastEvaluationDate": "2020-01-30T14:00:01+00:00",
         "lastEvaluationEpoch": "1580216400",
         "evaluationStatus": "done","protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
         "protocolSpeficicationVersion": "0.3.1",
