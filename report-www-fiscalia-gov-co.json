@@ -141,7 +141,7 @@
         {
             "ruleId": "planesDeGastoPublicoPorAnoFiscal",
             "title": "Planes de gasto público por año fiscal",
-            "shortDescription": "PARA HACER",
+            "shortDescription": "",
             "grade": "A",
             "gradePoints": "50",
             "type": "obligation",
@@ -222,7 +222,7 @@
         {
             "ruleId": "manuales",
             "title": "Manuales",
-            "shortDescription": "PARA HACER",
+            "shortDescription": "",
             "grade": "A",
             "gradePoints": "50",
             "type": "obligation",
@@ -231,7 +231,7 @@
         {
             "ruleId": "metasYObjectivos",
             "title": "Metas y Objetivos",
-            "shortDescription": "PARA HACER",
+            "shortDescription": "",
             "grade": "A",
             "gradePoints": "50",
             "type": "obligation",
@@ -240,7 +240,7 @@
         {
             "ruleId": "resultadoDeAuditorias",
             "title": "Resultado de Auditorías",
-            "shortDescription": "PARA HACER",
+            "shortDescription": "",
             "grade": "A",
             "gradePoints": "50",
             "type": "obligation",
@@ -258,7 +258,7 @@
         {
             "ruleId": "planAnticorrupcionYDeAtencionAlCiudadano",
             "title": "Plan Anticorrupción y de Atención al Ciudadano",
-            "shortDescription": "PARA HACER",
+            "shortDescription": "",
             "grade": "A",
             "gradePoints": "50",
             "type": "obligation",
@@ -366,7 +366,7 @@
         {
             "ruleId": "informesDeAuditoria",
             "title": "Informes de Auditoría",
-            "shortDescription": "PARA HACER",
+            "shortDescription": "",
             "grade": "",
             "gradePoints": "0",
             "type": "obligation",
@@ -384,7 +384,7 @@
         {
             "ruleId": "mecanismosExternosDeSupervision",
             "title": "Mecanismos Externos de Supervisión",
-            "shortDescription": "PARA HACER",
+            "shortDescription": "",
             "grade": "A",
             "gradePoints": "50",
             "type": "obligation",
@@ -402,7 +402,7 @@
         {
             "ruleId": "mecanismosDeVigilancia",
             "title": "Mecanismos de Vigilancia",
-            "shortDescription": "PARA HACER",
+            "shortDescription": "",
             "grade": "",
             "gradePoints": "0",
             "type": "obligation",
@@ -411,7 +411,7 @@
         {
             "ruleId": "procedimientosYLineamientosDeContratacion",
             "title": "Procedimientos y Lineamientos de Contratación",
-            "shortDescription": "PARA HACER",
+            "shortDescription": "",
             "grade": "A",
             "gradePoints": "50",
             "type": "obligation",
@@ -447,7 +447,7 @@
         {
             "ruleId": "tablasDeRetencionDocumental",
             "title": "Tablas De Retención Documental",
-            "shortDescription": "PARA HACER",
+            "shortDescription": "",
             "grade": "A",
             "gradePoints": "50",
             "type": "obligation",
@@ -456,7 +456,7 @@
         {
             "ruleId": "informacionPublicadaAntesDeLaLey1712De2014",
             "title": "Información Publicada Antes De La Ley 1712 De 2014",
-            "shortDescription": "PARA HACER",
+            "shortDescription": "",
             "grade": "",
             "gradePoints": "0",
             "type": "obligation",
@@ -465,7 +465,7 @@
         {
             "ruleId": "respuestasASolicitudesDeInformacionRecibidas",
             "title": "Respuestas A Solicitudes De Información Recibidas",
-            "shortDescription": "PARA HACER",
+            "shortDescription": "",
             "grade": "",
             "gradePoints": "0",
             "type": "obligation",
