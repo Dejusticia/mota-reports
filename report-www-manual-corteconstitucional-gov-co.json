@@ -8,8 +8,8 @@
         "protocolSpeficicationVersion": "0.4.0",
         "sitemap": "http://www.corteconstitucional.gov.co/sitemap.xml",
         "transparencyConfig": "http://www.corteconstitucional.gov.co/transparency.xml",
-        "generalGrade": "275",
-        "generalGradeNormalized": "60"
+        "generalGrade": "2490",
+        "generalGradeNormalized": "48"
     },
     "rules": [{
         "rules": {

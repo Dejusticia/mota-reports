@@ -8,8 +8,8 @@
         "protocolSpeficicationVersion": "0.4.0",
         "sitemap": "not found",
         "transparencyConfig": "not found",
-        "generalGrade": "275",
-        "generalGradeNormalized": "60"
+        "generalGrade": "2490",
+        "generalGradeNormalized": "48"
     },
     "rules": [{
         "ruleId": "websiteExistence",
@@ -167,8 +167,8 @@
         "ruleId": "directorioConInformacionesDeContratosConContratistasBasico",
         "title": "Directorio con Informaciones de Contratos de Contratistas - Básico",
         "shortDescription": "Es posible encontrar informaciones sobre los contratos de contratistas en formatos abiertos: Nombres y apellidos; correo electrónico; Teléfono del despacho y dependencia; Objeto del contrato.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#612-directorio-con-informaciones-de-contratos-de-contratistas---b%C3%A1sico"
     }, {
@@ -348,11 +348,11 @@
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#711-mecanismos-externos-de-supervisi%C3%B3n"
     }, {
-        "ruleId": "mecanismosNotificacion",
-        "title": "Mecanismos Notificación",
-        "shortDescription": "Descripción de la forma en que se compone y se organiza la entidade y no tan sólo la cabeza o principal órgano que se trate.",
-        "grade": "",
-        "gradePoints": "0",
+        "ruleId": "CorreoNotificaciones",
+        "title": "Correo electrónico para notificaciones judiciales",
+        "shortDescription": "El sujeto obligado publica la dirección de correo electrónico para notificaciones judiciales, la cual debe estar disponible en el pie de página de la página principal del sitio del sujeto obligado, así como en la sección de Atención al Ciudadano.",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#712-mecanismos-notificaci%C3%B3n"
     }, {

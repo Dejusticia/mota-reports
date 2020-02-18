@@ -348,8 +348,8 @@
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#711-mecanismos-externos-de-supervisi%C3%B3n"
     }, {
-        "ruleId": "mecanismosNotificacion",
-        "title": "Mecanismos Notificación",
+        "ruleId": "CorreoNotificaciones",
+        "title": "Correo electrónico para notificaciones judiciales",
         "shortDescription": "El sujeto obligado publica la dirección de correo electrónico para notificaciones judiciales, la cual debe estar disponible en el pie de página de la página principal del sitio del sujeto obligado, así como en la sección de Atención al Ciudadano. El correo para notificaciones judiciales debe estar configurado de forma tal que envíe acuse de recibo al remitente de forma automática.",
         "grade": "AA",
         "gradePoints": "80",
