@@ -288,8 +288,8 @@
         "ruleId": "participacionCiudadanaMecanismosDePresentacionDirecta",
         "title": "Participación Ciudadana - Mecanismos de Presentación Directa",
         "shortDescription": "El sitio de la entidad debe ofrecer mecanismos de presentación directa de solicitudes, quejas y reclamos a disposición del público.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#74-participaci%C3%B3n-ciudadana---mecanismos-de-presentaci%C3%B3n-directa"
     }, {
