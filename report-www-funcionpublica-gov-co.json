@@ -231,7 +231,7 @@
         "ruleId": "planAnticorrupcionYDeAtencionAlCiudadano",
         "title": "Plan Anticorrupción y de Atención al Ciudadano",
         "shortDescription": "",
-        "grade": "",
+        "grade": "A",
         "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#619-plan-anticorrupci%C3%B3n-y-de-atenci%C3%B3n-al-ciudadano"

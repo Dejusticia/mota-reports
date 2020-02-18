@@ -47,7 +47,7 @@
         "ruleId": "universalityPerformance",
         "title": "Universalidad: Performance",
         "shortDescription": "Los sitios deben permitir acesso con velocidade rasonable y estable mismo em malas condiciones de aceso, como conexión por dispositivos móbiles en reds de baja performance.",
-        "grade": "",
+        "grade": "A",
         "gradePoints": "50",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#524---universalidad-performance"

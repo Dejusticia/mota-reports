@@ -39,7 +39,7 @@
         "ruleId": "universalidadPatronesDeAcessibilidadeYWebStandards",
         "title": "Universalidad: Patrones de Acesibilidad y Web Standards",
         "shortDescription": "Los sitios deben permitir acesso tecnologias asistivas como lectores de tela, asistentes por voz, etc;aceso sin uso de javascript, dispositivos variados y en condiciones variadas de conexiones.",
-        "grade": "",
+        "grade": "A",
         "gradePoints": "50",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#523---universalidad-patrones-de-acesibilidad-y-web-standards"
@@ -119,7 +119,7 @@
         "ruleId": "ejecucionHistoricaAnual",
         "title": "Ejecución Histórica Anual",
         "shortDescription": "Información relativa al presupuesto ejecutado en el año en curso, idealmente con porcentajes de ejecución, y deben ofrecer datos de forma clara, organizada y encontrarse desagregados.",
-        "grade": "",
+        "grade": "A",
         "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#66-ejecuci%C3%B3n-hist%C3%B3rica-anual"
@@ -231,7 +231,7 @@
         "ruleId": "planAnticorrupcionYDeAtencionAlCiudadano",
         "title": "Plan Anticorrupción y de Atención al Ciudadano",
         "shortDescription": "",
-        "grade": "",
+        "grade": "A",
         "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#619-plan-anticorrupci%C3%B3n-y-de-atenci%C3%B3n-al-ciudadano"
@@ -247,7 +247,7 @@
         "ruleId": "atencionAlCiudadano",
         "title": "Atención al ciudadano",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con información de los servicios que brinda directamente al público, incluyendo i) normas ii) formularios y formatos y, iii) protocolos de atención a diferentes públicos.",
-        "grade": "",
+        "grade": "A",
         "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#71-atenci%C3%B3n-al-ciudadano"
@@ -279,7 +279,7 @@
         "ruleId": "politicas",
         "title": "Políticas",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con los contenidos de las políticas adoptadas que afecten al público, junto con sus fundamentos e interpretaciones.",
-        "grade": "",
+        "grade": "A",
         "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#75-pol%C3%ADticas"
@@ -287,7 +287,7 @@
         "ruleId": "participacionCiudadanaMecanismosDePresentacionDirecta",
         "title": "Participación Ciudadana - Mecanismos de Presentación Directa",
         "shortDescription": "El sitio de la entidad debe ofrecer mecanismos de presentación directa de solicitudes, quejas y reclamos a disposición del público.",
-        "grade": "",
+        "grade": "A",
         "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#74-participaci%C3%B3n-ciudadana---mecanismos-de-presentaci%C3%B3n-directa"
@@ -295,7 +295,7 @@
         "ruleId": "reporteDeParticipacionCiudadana",
         "title": "Reporte de Participación Ciudadana",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con reportes generales y agregados de datos de quejas y reclamos de la entidad, correspondientes a la respectiva vigencia y a años anteriores.",
-        "grade": "",
+        "grade": "A",
         "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#75-reporte-de-participaci%C3%B3n-ciudadana"
@@ -359,7 +359,7 @@
         "ruleId": "mecanismosDeVigilancia",
         "title": "Mecanismos de Vigilancia",
         "shortDescription": "",
-        "grade": "",
+        "grade": "A",
         "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#713-mecanismos-de-vigilancia"
@@ -383,7 +383,7 @@
         "ruleId": "esquemasDePublicacionDeInformacion",
         "title": "Esquemas de Publicación de información",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con informaciones de Esquemas de Publicación de información, publicadas en una página denominada \"Acceso a información pública\".",
-        "grade": "",
+        "grade": "A",
         "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#81-esquemas-de-publicaci%C3%B3n-de-informaci%C3%B3n"
