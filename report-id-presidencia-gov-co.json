@@ -5,7 +5,7 @@
         "lastEvaluationDate": "2020-01-26T22:12:30+00:00",
         "lastEvaluationEpoch": "1563747150",
         "evaluationStatus": "done","protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
-        "protocolSpeficicationVersion": "0.2.2",
+        "protocolSpeficicationVersion": "0.4.0",
         "sitemap": "not found",
         "transparencyConfig": "not found",
         "generalGrade": "1340",
@@ -148,8 +148,8 @@
         "ruleId": "directorioDeFuncionariosCompleto",
         "title": "Directorio de funcionarios - Completo",
         "shortDescription": "El sitio web contiene un directorio de funcionarios con informaciones completas: Nombres y apellidos; correo electrónico; Teléfono del despacho y dependencia; Formación académica; Experiencia laboral y profesional; Sanciones aplicadas.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#69-directorio-de-funcionarios---completo"
     }, {
@@ -157,7 +157,7 @@
         "title": "Escalas salariales",
         "shortDescription": "Es posible encontrar una tabla con los rangos de salarios de la entidad, identificado por el título \"Rangos de salario por nivel\", y el decreto de asignaciones salariales de la entidad en un lugar visible.",
         "grade": "A",
-        "gradePoints": "0",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#610-escalas-salariales"
     }, {
@@ -412,8 +412,8 @@
         "ruleId": "informacionPublicadaAntesDeLaLey1712De2014",
         "title": "Información Publicada Antes De La Ley 1712 De 2014",
         "shortDescription": "",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#84-informaci%C3%B3n-publicada-antes-de-la-ley-1712-de-2014"
     }, {

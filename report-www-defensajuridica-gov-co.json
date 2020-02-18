@@ -207,8 +207,8 @@
         "ruleId": "metasYObjectivos",
         "title": "Metas y Objetivos",
         "shortDescription": "",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#616-metas-y-objetivos"
     }, {
@@ -231,8 +231,8 @@
         "ruleId": "planAnticorrupcionYDeAtencionAlCiudadano",
         "title": "Plan Anticorrupción y de Atención al Ciudadano",
         "shortDescription": "",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#619-plan-anticorrupci%C3%B3n-y-de-atenci%C3%B3n-al-ciudadano"
     }, {
@@ -247,8 +247,8 @@
         "ruleId": "atencionAlCiudadano",
         "title": "Atención al ciudadano",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con información de los servicios que brinda directamente al público, incluyendo i) normas ii) formularios y formatos y, iii) protocolos de atención a diferentes públicos.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#71-atenci%C3%B3n-al-ciudadano"
     }, {

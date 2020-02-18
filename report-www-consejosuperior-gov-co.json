@@ -5,7 +5,7 @@
         "lastEvaluationDate": "2020-02-01T22:44:57+00:00",
         "lastEvaluationEpoch": "1558478697",
         "evaluationStatus": "done","protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
-        "protocolSpeficicationVersion": "0.2.2",
+        "protocolSpeficicationVersion": "0.4.0",
         "sitemap": "http://www.corteconstitucional.gov.co/sitemap.xml",
         "transparencyConfig": "http://www.corteconstitucional.gov.co/transparency.xml",
         "generalGrade": "275",
@@ -119,8 +119,8 @@
         "ruleId": "ejecucionHistoricaAnual",
         "title": "Ejecución Histórica Anual",
         "shortDescription": "Información relativa al presupuesto ejecutado en el año en curso, idealmente con porcentajes de ejecución, y deben ofrecer datos de forma clara, organizada y encontrarse desagregados.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#66-ejecuci%C3%B3n-hist%C3%B3rica-anual"
     }, {
@@ -231,8 +231,8 @@
         "ruleId": "planAnticorrupcionYDeAtencionAlCiudadano",
         "title": "Plan Anticorrupción y de Atención al Ciudadano",
         "shortDescription": "",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#619-plan-anticorrupci%C3%B3n-y-de-atenci%C3%B3n-al-ciudadano"
     }, {

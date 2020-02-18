@@ -5,7 +5,7 @@
         "lastEvaluationDate": "2020-02-01T14:00:01+00:00",
         "lastEvaluationEpoch": "1563372001",
         "evaluationStatus": "done","protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
-        "protocolSpeficicationVersion": "0.2.2",
+        "protocolSpeficicationVersion": "0.4.0",
         "sitemap": "not found",
         "transparencyConfig": "not found",
         "generalGrade": "275",
@@ -55,8 +55,8 @@
         "ruleId": "seguridadConexionEncriptada",
         "title": "Seguridad: Conexión Encriptada",
         "shortDescription": "El sítio és acessible en conexión encriptada (SSL/TLS).",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "AAA",
+        "gradePoints": "100",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#525---seguridad-conexi%C3%B3n-encriptada"
     }, {
@@ -207,8 +207,8 @@
         "ruleId": "metasYObjectivos",
         "title": "Metas y Objetivos",
         "shortDescription": "",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#616-metas-y-objetivos"
     }, {

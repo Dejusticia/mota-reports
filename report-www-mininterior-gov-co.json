@@ -5,7 +5,7 @@
         "lastEvaluationDate": "2020-02-01T14:00:01+00:00",
         "lastEvaluationEpoch": "1563372001",
         "evaluationStatus": "done","protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
-        "protocolSpeficicationVersion": "0.2.2",
+        "protocolSpeficicationVersion": "0.4.0",
         "sitemap": "not found",
         "transparencyConfig": "not found",
         "generalGrade": "275",
@@ -39,24 +39,24 @@
         "ruleId": "universalidadPatronesDeAcessibilidadeYWebStandards",
         "title": "Universalidad: Patrones de Acesibilidad y Web Standards",
         "shortDescription": "Los sitios deben permitir acesso tecnologias asistivas como lectores de tela, asistentes por voz, etc;aceso sin uso de javascript, dispositivos variados y en condiciones variadas de conexiones.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#523---universalidad-patrones-de-acesibilidad-y-web-standards"
     }, {
         "ruleId": "universalityPerformance",
         "title": "Universalidad: Performance",
         "shortDescription": "Los sitios deben permitir acesso con velocidade rasonable y estable mismo em malas condiciones de aceso, como conexión por dispositivos móbiles en reds de baja performance.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#524---universalidad-performance"
     }, {
         "ruleId": "seguridadConexionEncriptada",
         "title": "Seguridad: Conexión Encriptada",
         "shortDescription": "El sítio és acessible en conexión encriptada (SSL/TLS).",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "AAA",
+        "gradePoints": "100",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#525---seguridad-conexi%C3%B3n-encriptada"
     }, {
@@ -119,8 +119,8 @@
         "ruleId": "ejecucionHistoricaAnual",
         "title": "Ejecución Histórica Anual",
         "shortDescription": "Información relativa al presupuesto ejecutado en el año en curso, idealmente con porcentajes de ejecución, y deben ofrecer datos de forma clara, organizada y encontrarse desagregados.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#66-ejecuci%C3%B3n-hist%C3%B3rica-anual"
     }, {
@@ -143,8 +143,8 @@
         "ruleId": "directorioDeFuncionariosCompleto",
         "title": "Directorio de funcionarios - Completo",
         "shortDescription": "El sitio web contiene un directorio de funcionarios con informaciones completas: Nombres y apellidos; correo electrónico; Teléfono del despacho y dependencia; Formación académica; Experiencia laboral y profesional; Sanciones aplicadas.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "AAA",
+        "gradePoints": "100",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#69-directorio-de-funcionarios---completo"
     }, {
@@ -167,16 +167,16 @@
         "ruleId": "directorioConInformacionesDeContratosConContratistasBasico",
         "title": "Directorio con Informaciones de Contratos de Contratistas - Básico",
         "shortDescription": "Es posible encontrar informaciones sobre los contratos de contratistas en formatos abiertos: Nombres y apellidos; correo electrónico; Teléfono del despacho y dependencia; Objeto del contrato.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "AAA",
+        "gradePoints": "100",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#612-directorio-con-informaciones-de-contratos-de-contratistas---b%C3%A1sico"
     }, {
         "ruleId": "directorioConInformacionesDeContratosConContratistasCompleto",
         "title": "Directorio con Informaciones de Contratos de Contratistas - Completo",
         "shortDescription": "El sitio web contiene contiene un directorio de funcionarios de informaciones completas: Nombres y apellidos; correo electrónico; Teléfono del despacho y dependencia; Formación académica; Experiencia laboral y profesional; Sanciones aplicadas;Objeto del contrato.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "AAA",
+        "gradePoints": "100",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#613-directorio-con-informaciones-de-contratos-de-contratistas---completo"
     }, {
@@ -207,8 +207,8 @@
         "ruleId": "metasYObjectivos",
         "title": "Metas y Objetivos",
         "shortDescription": "",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#616-metas-y-objetivos"
     }, {
@@ -223,16 +223,16 @@
         "ruleId": "indicadoresDeDesempeno",
         "title": "Indicadores de Desempeño",
         "shortDescription": "Las entidades deben proveer información sobre los indicadores de desempeño que utilizan y reportes con estadísticas y análisis del desempeño de la entidad (en relación a _________) y de sus funcionarios.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#618-indicadores-de-desempe%C3%B1o"
     }, {
         "ruleId": "planAnticorrupcionYDeAtencionAlCiudadano",
         "title": "Plan Anticorrupción y de Atención al Ciudadano",
         "shortDescription": "",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#619-plan-anticorrupci%C3%B3n-y-de-atenci%C3%B3n-al-ciudadano"
     }, {
@@ -247,8 +247,8 @@
         "ruleId": "atencionAlCiudadano",
         "title": "Atención al ciudadano",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con información de los servicios que brinda directamente al público, incluyendo i) normas ii) formularios y formatos y, iii) protocolos de atención a diferentes públicos.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#71-atenci%C3%B3n-al-ciudadano"
     }, {
@@ -279,8 +279,8 @@
         "ruleId": "politicas",
         "title": "Políticas",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con los contenidos de las políticas adoptadas que afecten al público, junto con sus fundamentos e interpretaciones.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#75-pol%C3%ADticas"
     }, {
@@ -295,8 +295,8 @@
         "ruleId": "reporteDeParticipacionCiudadana",
         "title": "Reporte de Participación Ciudadana",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con reportes generales y agregados de datos de quejas y reclamos de la entidad, correspondientes a la respectiva vigencia y a años anteriores.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "AA",
+        "gradePoints": "80",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#75-reporte-de-participaci%C3%B3n-ciudadana"
     }, {
@@ -319,8 +319,8 @@
         "ruleId": "informesDeEvaluacion",
         "title": "Informes de Evaluación",
         "shortDescription": "El sitio de la entidad debe contener Informes de Evaluación del periodo vigente y de los períodos anteriores. contratación, entre otros.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#78-informes-de-evaluaci%C3%B3n"
     }, {
@@ -351,8 +351,8 @@
         "ruleId": "mecanismosNotificacion",
         "title": "Mecanismos Notificación",
         "shortDescription": "Descripción de la forma en que se compone y se organiza la entidade y no tan sólo la cabeza o principal órgano que se trate.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#712-mecanismos-notificaci%C3%B3n"
     }, {
@@ -383,16 +383,16 @@
         "ruleId": "esquemasDePublicacionDeInformacion",
         "title": "Esquemas de Publicación de información",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con informaciones de Esquemas de Publicación de información, publicadas en una página denominada \"Acceso a información pública\".",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#81-esquemas-de-publicaci%C3%B3n-de-informaci%C3%B3n"
     }, {
         "ruleId": "programaDeGestionDocumental",
         "title": "Programa de Gestión Documental",
         "shortDescription": "Informaciones de Programa de Gestión Documental, publicadas en una página Gestión Documental e informar procedimientos y lineamientos para la producción, distribución, organización, consulta y conservación de los documentos públicos.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#82-programa-de-gesti%C3%B3n-documental"
     }, {
