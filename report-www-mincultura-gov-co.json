@@ -8,8 +8,8 @@
         "protocolSpeficicationVersion": "0.4.0",
         "sitemap": "not found",
         "transparencyConfig": "not found",
-        "generalGrade": "2490",
-        "generalGradeNormalized": "48"
+        "generalGrade": "1960",
+        "generalGradeNormalized": "38"
     },
     "rules": [{
         "ruleId": "websiteExistence",
