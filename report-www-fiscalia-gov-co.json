@@ -8,8 +8,8 @@
         "specificationUri": "https://mota.dejusticia.org/specs/colombia-corte-constitucional/",
         "sitemap": "http://www.corteconstitucional.gov.co/sitemap.xml",
         "transparencyConfig": "http://www.corteconstitucional.gov.co/transparency.xml",
-        "generalGrade": "275",
-        "generalGradeNormalized": "90"
+        "generalGrade": "1960",
+        "generalGradeNormalized": "38"
     },
     "rules": [
         {
