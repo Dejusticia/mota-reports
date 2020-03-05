@@ -222,7 +222,7 @@
     }, {
         "ruleId": "indicadoresDeDesempeno",
         "title": "Indicadores de Desempeño",
-        "shortDescription": "Las entidades deben proveer información sobre los indicadores de desempeño que utilizan y reportes con estadísticas y análisis del desempeño de la entidad (en relación a _________) y de sus funcionarios.",
+        "shortDescription": "Las entidades deben proveer información sobre los indicadores de desempeño que utilizan y reportes con estadísticas y análisis del desempeño de la entidad y de sus funcionarios.",
         "grade": "",
         "gradePoints": "0",
         "type": "obligation",
