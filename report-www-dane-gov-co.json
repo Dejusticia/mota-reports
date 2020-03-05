@@ -126,7 +126,7 @@
     }, {
         "ruleId": "planesDeGastoPublicoPorAnoFiscal",
         "title": "Planes de gasto público por año fiscal",
-        "shortDescription": "",
+        "shortDescription": "El sujeto obligado publica su plan de gasto público para cada año fiscal, en el cual se especifican los objetivos, las estrategias, los proyectos, las metas, los responsables, los planes generales de compras y la distribución presupuestal de sus proyectos de inversión junto a los indicadores de gestión. Asimismo, el plan deberá estar acompañado del informe de gestión del año inmediatamente anterior.",
         "grade": "A",
         "gradePoints": "50",
         "type": "obligation",
