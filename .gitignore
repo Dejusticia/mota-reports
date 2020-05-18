@@ -101,6 +101,7 @@ Thumbs.db
 fila-urls.txt
 fila.txt
 active-domains.txt
+generate.sh
 *.sh
 report-default-*.json
 
