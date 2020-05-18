@@ -1,5 +1,5 @@
 #!/bin/bash
-filename='fila.txt'
+filename='active-domains.txt'
 n=1
 epoch=1580216400
 while read line; do

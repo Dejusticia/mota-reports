@@ -100,7 +100,9 @@ Thumbs.db
 # ignore specific files
 fila-urls.txt
 fila.txt
+active-domains.txt
 *.sh
+report-default-*.json
 
 # -------------------------
 # BEGIN Whitelisted Files
