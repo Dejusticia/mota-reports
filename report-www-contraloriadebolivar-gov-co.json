@@ -1,7 +1,7 @@
 {
     "meta": {
         "entityName": "Institución Ejemplo",
-        "entityUrl": "www.ejemplo.gov.co",
+        "entityUrl": "contraloriadebolivar.gov.co",
         "lastEvaluationDate": "2020-15-06T03:00:56+00:00",
         "lastEvaluationEpoch": "1589511656",
         "evaluationStatus": "done","protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",

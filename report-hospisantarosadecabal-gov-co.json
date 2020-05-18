@@ -2,9 +2,10 @@
     "meta": {
         "entityName": "Institución Ejemplo",
         "entityUrl": "hospisantarosadecabal.gov.co",
-        "lastEvaluationDate": "2020-15-06T03:00:56+00:00",
-        "lastEvaluationEpoch": "1589511656",
-        "evaluationStatus": "done","protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
+        "lastEvaluationDate": "2020-15-06T05:00:56+00:00",
+        "lastEvaluationEpoch": "1589518856",
+        "evaluationStatus": "done",
+        "protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
         "protocolSpeficicationVersion": "0.4.0",
         "sitemap": "not found",
         "transparencyConfig": "not found",

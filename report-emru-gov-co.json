@@ -2,8 +2,8 @@
     "meta": {
         "entityName": "Institución Ejemplo",
         "entityUrl": "emru.gov.co",
-        "lastEvaluationDate": "2020-15-06T03:00:56+00:00",
-        "lastEvaluationEpoch": "1589511656",
+        "lastEvaluationDate": "2020-15-06T06:00:56+00:00",
+        "lastEvaluationEpoch": "1589522456",
         "evaluationStatus": "done","protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
         "protocolSpeficicationVersion": "0.4.0",
         "sitemap": "not found",
@@ -52,8 +52,8 @@
         "ruleId": "universalidadPatronesDeAcessibilidadeYWebStandards",
         "title": "Universalidad: Patrones de Acesibilidad y Web Standards",
         "shortDescription": "Los sitios deben permitir acesso tecnologias asistivas como lectores de tela, asistentes por voz, etc; Así como desde dispositivos.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#523---universalidad-patrones-de-acesibilidad-y-web-standards"
     }, {
@@ -84,24 +84,24 @@
         "ruleId": "estructuraOrganica",
         "title": "Estructura orgánica",
         "shortDescription": "Para que la ciudadanía conozca la jerarquía de empleados y departamentos disponibles en la entidad, y pueda realizar el sitio web debe contener descripción de la forma en que se compone y se organiza la entidade y no tan sólo la cabeza o principal órgano que se trate.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#61-estructura-org%C3%A1nica"
     }, {
         "ruleId": "funcionesYDeberes",
         "title": "Funciones y deberes",
         "shortDescription": "Descripción de funciones y deberes de la entidad en general y no tan sólo la cabeza o principal órgano que lo compone.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#62-funciones-y-deberes"
     }, {
         "ruleId": "ubicacionDeSusSedesYAreas",
         "title": "Ubicación de sus sedes y áreas",
         "shortDescription": "Descripción de ubicación de sedes y áreas de la entidad en general y no tan sólo la cabeza o principal órgano que lo compone.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#63-ubicaci%C3%B3n-de-sus-sedes-y-%C3%A1reas"
     }, {
@@ -124,24 +124,24 @@
         "ruleId": "presupuesto",
         "title": "Presupuesto",
         "shortDescription": "El presupuesto de la entidad para la respectiva vigencia debe estar disponible para verificación del público. Puede ser el presupuesto inicial o final. Eo presupuesto debe ofrecer datos (valores, ingresos, gastos) de forma clara, organizada y desagregado.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#66-presupuesto"
     }, {
         "ruleId": "ejecucionHistoricaAnual",
         "title": "Ejecución Histórica Anual",
         "shortDescription": "Información relativa al presupuesto ejecutado en el año en curso, idealmente con porcentajes de ejecución, y deben ofrecer datos de forma clara, organizada y encontrarse desagregados.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#66-ejecuci%C3%B3n-hist%C3%B3rica-anual"
     }, {
         "ruleId": "planesDeGastoPublicoPorAnoFiscal",
         "title": "Planes de gasto público por año fiscal",
         "shortDescription": "El sujeto obligado publica su plan de gasto público para cada año fiscal, en el cual se especifican los objetivos, las estrategias, los proyectos, las metas, los responsables, los planes generales de compras y la distribución presupuestal de sus proyectos de inversión junto a los indicadores de gestión. Asimismo, el plan deberá estar acompañado del informe de gestión del año inmediatamente anterior.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#67-planes-de-gasto-p%C3%BAblico-por-a%C3%B1o-fiscal"
     }, {
@@ -156,8 +156,8 @@
         "ruleId": "directorioDeFuncionariosCompleto",
         "title": "Directorio de funcionarios - Completo",
         "shortDescription": "El sitio web contiene un directorio de funcionarios con informaciones completas: Nombres y apellidos; correo electrónico; Teléfono del despacho y dependencia; Formación académica; Experiencia laboral y profesional; Sanciones aplicadas.",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#69-directorio-de-funcionarios---completo"
     }, {
@@ -420,16 +420,16 @@
         "ruleId": "informacionPublicadaAntesDeLaLey1712De2014",
         "title": "Información Publicada Antes De La Ley 1712 De 2014",
         "shortDescription": "",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#84-informaci%C3%B3n-publicada-antes-de-la-ley-1712-de-2014"
     }, {
         "ruleId": "respuestasASolicitudesDeInformacionRecibidas",
         "title": "Respuestas A Solicitudes De Información Recibidas",
         "shortDescription": "",
-        "grade": "",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#85-respuestas-a-solicitudes-de-informaci%C3%B3n-recibidas"
     }]
