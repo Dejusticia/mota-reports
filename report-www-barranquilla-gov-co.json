@@ -4,7 +4,7 @@
         "entityUrl": "www.barranquilla.gov.co",
         "lastEvaluationDate": "2020-05-03T19:15:01+00:00",
         "lastEvaluationEpoch": "1563372001",
-        "evaluationStatus": "done","protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
+        "evaluationStatus": "analyzing","protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
         "protocolSpeficicationVersion": "0.4.0",
         "sitemap": "not found",
         "transparencyConfig": "not found",

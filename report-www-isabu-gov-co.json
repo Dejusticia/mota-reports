@@ -2,9 +2,9 @@
     "meta": {
         "entityName": "Institución Ejemplo",
         "entityUrl": "isabu.gov.co",
-        "lastEvaluationDate": "2020-15-06T05:00:56+00:00",
+        "lastEvaluationDate": "2020-05-15T05:00:56+00:00",
         "lastEvaluationEpoch": "1589518856",
-        "evaluationStatus": "done",
+        "evaluationStatus": "analyzing",
         "protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
         "protocolSpeficicationVersion": "0.4.0",
         "sitemap": "not found",
