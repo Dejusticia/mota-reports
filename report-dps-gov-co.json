@@ -1,58 +1,45 @@
 {
     "meta": {
-        "entityName": "Institución Ejemplo",
-        "entityUrl": "dps.gov.co",
-        "lastEvaluationDate": "2020-05-15T05:00:56+00:00",
-        "lastEvaluationEpoch": "1589518856",
-        "evaluationStatus": "analyzing",
+        "entityName": "Departamento Administrativo para la Prosperidad Social–DPS",
+        "entityUrl": "www.dps.gov.co",
+        "lastEvaluationDate": "2020-05-06:00:01+00:00",
+        "lastEvaluationEpoch": "1563372001",
+        "evaluationStatus": "serverUnavailable",
         "protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
         "protocolSpeficicationVersion": "0.4.0",
         "sitemap": "not found",
         "transparencyConfig": "not found",
-        "generalGrade": "3044",
-        "generalGradeNormalized": "60",
-        "validDomains": [
-            "subdomain1.ejemplo.gov.co",
-            "subdomain2.ejemplo.gov.co",
-            "www.externalejemplo.gov.co"
-        ],
-        "synonymDomains": [
-            "ejemplo.gov.co"
-        ],
-        "mispelledDomains": [
-            "www.exemplo.gov.co",
-            "www.egemplo.gov.co",
-            "www.ejemplo.gob.co"
-        ]
+        "generalGrade": "0",
+        "generalGradeNormalized": "0"
     },
     "rules": [{
         "ruleId": "websiteExistence",
         "title": "Existencia de sitio Web",
-        "shortDescription": "Para fomentar la transparencia activa y la participación ciudadana, y cumplir con las obligaciones legales colombianas, la entidade deberá mantener um sítio web, que deberá estar disponible para acesso via una URL oficial por personas y sistemas automáticos (e.g. robots).",
-        "grade": "AA",
-        "gradePoints": "80",
+        "shortDescription": "La entidade deberá mantener um sítio web, que deberá estar disponible para acesso via una URI oficial por cualquier user-agent.",
+        "grade": "",
+        "gradePoints": "0",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#511-disponibilidad"
     }, {
         "ruleId": "freeAccess",
         "title": "Régimen de Acceso - Gratuidad",
         "shortDescription": "El sítio debe tener aceso gratuidad a los servicios judiciales informáticos que presta la Corte, exceto para casos previstos en ley e reglamentos.",
-        "grade": "AA",
-        "gradePoints": "80",
+        "grade": "",
+        "gradePoints": "0",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#521-gratuidad"
     }, {
         "ruleId": "universalityDirectAccess",
         "title": "Universalidad: Acceso Directo",
         "shortDescription": "Los servicios informáticos que presta la Corte deben ser abiertos a todo el público que desee acceder a ellos y no deben estar restringidos a ciertos usuarios previo registro y recepción de una clave de acceso.",
-        "grade": "AA",
-        "gradePoints": "80",
+        "grade": "",
+        "gradePoints": "0",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#522---universalidad-acceso-directo"
     }, {
         "ruleId": "universalidadPatronesDeAcessibilidadeYWebStandards",
         "title": "Universalidad: Patrones de Acesibilidad y Web Standards",
-        "shortDescription": "Los sitios deben permitir acesso tecnologias asistivas como lectores de tela, asistentes por voz, etc; Así como desde dispositivos.",
+        "shortDescription": "Los sitios deben permitir acesso tecnologias asistivas como lectores de tela, asistentes por voz, etc;aceso sin uso de javascript, dispositivos variados y en condiciones variadas de conexiones.",
         "grade": "",
         "gradePoints": "0",
         "type": "recommendation",
@@ -60,7 +47,7 @@
     }, {
         "ruleId": "universalityPerformance",
         "title": "Universalidad: Performance",
-        "shortDescription": "Los sitios deben permitir acesso con velocidade rasonable y estable mismo em malas condiciones de aceso, como conexión por dispositivos móbiles en conexión de baja velocidad o inestables.",
+        "shortDescription": "Los sitios deben permitir acesso con velocidade rasonable y estable mismo em malas condiciones de aceso, como conexión por dispositivos móbiles en reds de baja performance.",
         "grade": "",
         "gradePoints": "0",
         "type": "recommendation",
@@ -68,15 +55,15 @@
     }, {
         "ruleId": "seguridadConexionEncriptada",
         "title": "Seguridad: Conexión Encriptada",
-        "shortDescription": "El sitio és acessible en conexión encriptada. és decir, utiliza certificados SSL/TLS, caracterizados por URLs que empiezam con https, que aumenta el nivel de proteción de  los datos en la conexión entre el dispositivo del usuário y el sitio web.",
-        "grade": "AA",
-        "gradePoints": "80",
+        "shortDescription": "El sítio és acessible en conexión encriptada (SSL/TLS).",
+        "grade": "",
+        "gradePoints": "0",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#525---seguridad-conexi%C3%B3n-encriptada"
     }, {
         "ruleId": "dadosAbiertosAcesoViaApiRest",
         "title": "Dados Abiertos: Acceso vía API REST",
-        "shortDescription": "Los contenidos del sitio son acesibles por una API REST con datos estructurados, incluso meta-dados. Esta recomendación busca facilitar acesso a información por robots y sistemas automatizados, aumentando las capacidades de veeduría ciudadana.",
+        "shortDescription": "Los contenidos del sitio son acesibles por una API REST con datos estructurados, incluso meta-dados.",
         "grade": "",
         "gradePoints": "0",
         "type": "recommendation",
@@ -84,7 +71,7 @@
     }, {
         "ruleId": "estructuraOrganica",
         "title": "Estructura orgánica",
-        "shortDescription": "Para que la ciudadanía conozca la jerarquía de empleados y departamentos disponibles en la entidad, y pueda realizar el sitio web debe contener descripción de la forma en que se compone y se organiza la entidade y no tan sólo la cabeza o principal órgano que se trate.",
+        "shortDescription": "Descripción de la forma en que se compone y se organiza la entidade y no tan sólo la cabeza o principal órgano que se trate.",
         "grade": "",
         "gradePoints": "0",
         "type": "obligation",
@@ -109,16 +96,16 @@
         "ruleId": "divisionesODepartamentos",
         "title": "Divisiones o departamentos",
         "shortDescription": "Informaciones sobre la totalidad de divisiones territoriales.",
-        "grade": "A",
-        "gradePoints": "50",
+        "grade": "",
+        "gradePoints": "0",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#64-divisiones-o-departamentos"
     }, {
         "ruleId": "horarioDeAtencionAlPublico",
         "title": "Horario de Atención al Público",
         "shortDescription": "Informaciones sobre horarios de atención al público de la entidad y sus divisiones en diferentes medios: en la sede, teléfono, correo electrónico, etc.",
-        "grade": "A",
-        "gradePoints": "50",
+        "grade": "",
+        "gradePoints": "0",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#65-horario-de-atenci%C3%B3n-al-p%C3%BAblico"
     }, {
@@ -269,8 +256,8 @@
         "ruleId": "tramites",
         "title": "Trámites",
         "shortDescription": "El sitio de la entidad debe contener una o más páginas con informaciones de los trámites que se pueden agotar en la entidad, incluyendo i) normativa(s) relacionada(s) ii) proceso a seguir, incluso formularios y formatos y, iii) costos asociados.",
-        "grade": "A",
-        "gradePoints": "50",
+        "grade": "",
+        "gradePoints": "0",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#72-tr%C3%A1mites"
     }, {
@@ -356,7 +343,7 @@
     }, {
         "ruleId": "mecanismosExternosDeSupervision",
         "title": "Mecanismos Externos de Supervisión",
-        "shortDescription": "La entidad publica información relacionada con los entes de control externo y mecanismos de supervisión, notificación y vigilancia: la relación de todas las entidades que lo vigilan, tipo de control que se ejecuta, planes de mejoramiento, un enlace al sitio web del organismo de control en donde se encuentren los informes que éste ha elaborado, a manera como un particular puede comunicar una irregularidad ante los entes que ejercen supervisión y control.",
+        "shortDescription": "",
         "grade": "",
         "gradePoints": "0",
         "type": "obligation",
@@ -405,8 +392,8 @@
         "ruleId": "programaDeGestionDocumental",
         "title": "Programa de Gestión Documental",
         "shortDescription": "Informaciones de Programa de Gestión Documental, publicadas en una página Gestión Documental e informar procedimientos y lineamientos para la producción, distribución, organización, consulta y conservación de los documentos públicos.",
-        "grade": "A",
-        "gradePoints": "50",
+        "grade": "",
+        "gradePoints": "0",
         "type": "obligation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#82-programa-de-gesti%C3%B3n-documental"
     }, {

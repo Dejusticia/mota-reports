@@ -1,15 +1,15 @@
 {
     "meta": {
-        "entityName": "Ministerio de Agricultura y Desarrollo Rural",
-        "entityUrl": "www.minagricultura.gov.co",
-        "lastEvaluationDate": "2020-05-06:00:01+00:00",
-        "lastEvaluationEpoch": "1563372001",
-        "evaluationStatus": "done","protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
+        "entityName": "Institución Ejemplo",
+        "entityUrl": "www.ane.gov.co",
+        "lastEvaluationDate": "2020-06-01T14:00:01+00:00",
+        "lastEvaluationEpoch": "1580216400",
+        "evaluationStatus": "analyzing","protocolSpeficicationURI": "https://github.com/Dejusticia/mota-active-transparency-specification/",
         "protocolSpeficicationVersion": "0.4.0",
         "sitemap": "not found",
         "transparencyConfig": "not found",
-        "generalGrade": "1960",
-        "generalGradeNormalized": "38"
+        "generalGrade": "3044",
+        "generalGradeNormalized": "60"
     },
     "rules": [{
         "ruleId": "websiteExistence",
@@ -47,15 +47,15 @@
         "ruleId": "universalityPerformance",
         "title": "Universalidad: Performance",
         "shortDescription": "Los sitios deben permitir acesso con velocidade rasonable y estable mismo em malas condiciones de aceso, como conexión por dispositivos móbiles en reds de baja performance.",
-        "grade": "failed|timeout",
-        "gradePoints": "0",
+        "grade": "A",
+        "gradePoints": "50",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#524---universalidad-performance"
     }, {
         "ruleId": "seguridadConexionEncriptada",
         "title": "Seguridad: Conexión Encriptada",
         "shortDescription": "El sítio és acessible en conexión encriptada (SSL/TLS).",
-        "grade": "AAA",
+        "grade": "",
         "gradePoints": "100",
         "type": "recommendation",
         "ruleSpecificationUrl": "https://github.com/Dejusticia/mota-active-transparency-specification/blob/master/mota-active-transparency-specification.md#525---seguridad-conexi%C3%B3n-encriptada"
